@@ -1,0 +1,5 @@
+#Soalan 1 (Input & Output asas)
+#Create a Python program that receives one number from the user and displays the number back to the screen.
+# Program to receive one number from the user and display it back
+number = input("Enter a number: ")
+print("You entered:", number)
