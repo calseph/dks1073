@@ -1,0 +1,6 @@
+#Soalan 4 (Penggunaan pembolehubah bermakna)
+#Create a Python program that receives the length and width of a rectangle from the user and calculates the area of the rectangle.
+length = float(input("Enter the length of the rectangle: "))
+width = float(input("Enter the width of the rectangle: "))
+area = length * width
+print("The area of the rectangle is:", area)
