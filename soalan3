@@ -3,3 +3,11 @@
 #the sum
 #the difference
 #the product
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+sum_result = num1 + num2
+difference_result = num1 - num2
+product_result = num1 * num2
+print("The sum of", num1, "and", num2, "is:", sum_result)
+print("The difference between", num1, "and", num2, "is:", difference_result)
+print("The product of", num1, "and", num2, "is:", product_result)
