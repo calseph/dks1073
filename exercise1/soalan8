@@ -3,6 +3,7 @@
 #the price of an item
 #the quantity purchased
 #Then calculate and display the total price.
+
 price = float(input("Enter the price of the item: "))
 quantity = int(input("Enter the quantity purchased: "))
 total_price = price * quantity
