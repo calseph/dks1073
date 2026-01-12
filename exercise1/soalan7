@@ -2,6 +2,7 @@
 #Create a Python program that receives a temperature in Celsius and converts it to Fahrenheit.
 #Formula:
 #F = (C × 9/5) + 32
+
 celsius = float(input("Enter temperature in Celsius: "))
 fahrenheit = (celsius * 9/5) + 32
 print("Temperature in Fahrenheit is:", fahrenheit)
