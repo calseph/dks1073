@@ -5,6 +5,7 @@
 #Then calculate and display:
 #the total marks
 #the average marks
+
 name = input("Enter the student's name: ")
 mark1 = float(input("Enter marks for subject 1: "))
 mark2 = float(input("Enter marks for subject 2: "))
